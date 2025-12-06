@@ -27,7 +27,8 @@ python -m playwright install
 
 ## Usage
 Place your resume in the /resumes folder:
-python src/Job_finder.py
+Run the below command
+'Job_finder.py'
 
 ## Output
 Generated Excel file containing:
@@ -40,6 +41,7 @@ Generated Excel file containing:
 
 ## Tech Stack
 Python, Playwright, BeautifulSoup, pandas, PyPDF2, python-docx
+
 
 
 
