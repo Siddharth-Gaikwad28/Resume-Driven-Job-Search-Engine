@@ -1,4 +1,4 @@
-# Automated Job Scraper & Resume Matcher (Playwright + Python)
+# Automated Job Scraper & Resume Matcher 
 Created by Siddharth Gaikwad 
 
 Disclaimer: This project is created strictly for educational and learning purposes. It is not intended for commercial use, production deployment, or to replace any official job platform.
@@ -40,6 +40,7 @@ Generated Excel file containing:
 
 ## Tech Stack
 Python, Playwright, BeautifulSoup, pandas, PyPDF2, python-docx
+
 
 
 
